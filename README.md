@@ -3,4 +3,4 @@ First repository setup
 
 Hello.
 
-I am learning how to use GitHub and.
+I am learning how to use GitHub.
